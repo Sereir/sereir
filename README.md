@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on https://github.com/Bontaaz/Cara-a-Cara
+- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning <b>Vue.js</b> and <b>React</b>
 - 📫 How to reach me: nacim.sereir@gmail.com
 - 📄 Know about my experiences www.linkedin.com/in/nacim-sereir
