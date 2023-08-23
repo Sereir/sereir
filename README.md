@@ -7,11 +7,12 @@
 <i>I'm Nacim, a french student web developper </i>
 <br>
 <ul>
-<li> 🔭 I’m currently working on Heliodon Project (https://reliable-phoenix-446714.netlify.app/articles/ma-decouverte-et-mon-apprentissage-de-react)</li>
-<li>- 🌱 I’m currently learning <b>ReactJs</b></li>
-<li>- 📫 How to reach me: nacim.sereir@gmail.com</li>
-<li>- 📄 Know about my experiences www.linkedin.com/in/nacim-sereir / website : https://reliable-phoenix-446714.netlify.app/</li>
+<li>🔭 I’m currently working on Heliodon Project (https://reliable-phoenix-446714.netlify.app/articles/ma-decouverte-et-mon-apprentissage-de-react)</li>
+<li>🌱 I’m currently learning <b>ReactJs</b></li>
+<li>📫 How to reach me: nacim.sereir@gmail.com</li>
+<li>📄 Know about my experiences www.linkedin.com/in/nacim-sereir / website : https://reliable-phoenix-446714.netlify.app/</li>
 </ul>
+
 <h2 align="center"> 🛠 Language and tools : </h2>
 
 <h3 align="left">Main Stack :</h3>
