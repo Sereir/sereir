@@ -4,8 +4,8 @@
 </p>
 
 <h2>👩‍💻 About Me</h2>
-I'm Nacim, a french student web developper 
-
+<i>I'm Nacim, a french student web developper </i>
+<br>
 - 🔭 I’m currently working on Heliodon Project (https://reliable-phoenix-446714.netlify.app/articles/ma-decouverte-et-mon-apprentissage-de-react)
 - 🌱 I’m currently learning <b>ReactJs</b>
 - 📫 How to reach me: nacim.sereir@gmail.com
