@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning <b>ReactJs</b>
 - 📫 How to reach me: nacim.sereir@gmail.com
 - 📄 Know about my experiences www.linkedin.com/in/nacim-sereir / website : https://reliable-phoenix-446714.netlify.app/
-- 
 
 <h3 align="left">Main Stack :</h3>
 <p align="left">
