@@ -11,7 +11,7 @@ I'm Nacim, a french student web developper
 - 📫 How to reach me: nacim.sereir@gmail.com
 - 📄 Know about my experiences www.linkedin.com/in/nacim-sereir / website : https://reliable-phoenix-446714.netlify.app/
 
-<h2 align="center"> 🛠 Language and tools : </h2>
+<h2 align="left"> 🛠 Language and tools : </h2>
 
 <h3 align="left">Main Stack :</h3>
 <p align="left">
