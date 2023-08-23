@@ -1,12 +1,17 @@
-<h1 align="center"> Hi there 👋, I'm Nacim SEREIR </h1>
+<h1 align="center">Hello!! 👋</h1>
 <p align="center">
   <img src="https://github.com/nsereir/nsereir/blob/main/gif.gif">
 </p>
+
+👩‍💻 About Me
+I'm Nacim, a french student web developper 
 
 - 🔭 I’m currently working on Heliodon Project (https://reliable-phoenix-446714.netlify.app/articles/ma-decouverte-et-mon-apprentissage-de-react)
 - 🌱 I’m currently learning <b>ReactJs</b>
 - 📫 How to reach me: nacim.sereir@gmail.com
 - 📄 Know about my experiences www.linkedin.com/in/nacim-sereir / website : https://reliable-phoenix-446714.netlify.app/
+
+<h2 align="center"> 🛠 Language and tools : </h2>
 
 <h3 align="left">Main Stack :</h3>
 <p align="left">
