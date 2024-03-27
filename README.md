@@ -7,8 +7,8 @@
 <i>I'm Nacim, a french student web developper </i>
 <br>
 <ul>
-<li>🔭 I’m currently working on Heliodon Project (https://reliable-phoenix-446714.netlify.app/articles/ma-decouverte-et-mon-apprentissage-de-react)</li>
-<li>🌱 I’m currently learning <b>ReactJs</b></li>
+<li>🔭 I’m currently working on Melovox (https://melovox.netlify.app/)</li>
+<li>🌱 I’m currently learning <b>Node & Django</b></li>
 <li>📫 How to reach me: nacim.sereir@gmail.com</li>
 <li>📄 Know about my experiences www.linkedin.com/in/nacim-sereir / website : https://reliable-phoenix-446714.netlify.app/</li>
 </ul>
@@ -46,5 +46,6 @@
 <h3 align="left">🔢 DATABASES :</h3>
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
