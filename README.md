@@ -7,8 +7,8 @@
 <i>I'm Nacim, a french student web developper </i>
 <br>
 <ul>
-<li>🔭 I’m currently working on Melovox (https://melovox.netlify.app/)</li>
-<li>🌱 I’m currently learning <b>Node & Django</b></li>
+<li>🔭 I’m currently working on https://nextjs.org/learn</li>
+<li>🌱 I’m currently learning <b>Next.js</b></li>
 <li>📫 How to reach me: nacim.sereir@gmail.com</li>
 <li>📄 Know about my experiences www.linkedin.com/in/nacim-sereir / website : https://reliable-phoenix-446714.netlify.app/</li>
 </ul>
