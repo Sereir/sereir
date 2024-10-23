@@ -42,7 +42,6 @@
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo.svg" alt="debian" width="40" height="40"/> </a>
 <a href="https://www.wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="wordpress" width="40" height="40"/> </a>
 
-belligooooooooooooooool
 </p>
 
 <h3 align="left">🔢 DATABASES :</h3>
@@ -51,3 +50,5 @@ belligooooooooooooooool
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="mongodb" width="40" height="40"/> </a>
 </p>
+
+belligooooooooooooooool
